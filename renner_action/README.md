@@ -26,5 +26,5 @@ Variation in amplitude is due to non-uniform sensor placement.
 
 ## Plots
 
-![alt text] (hammer_position_and_velocity.jpg)
-![alt text] (hammer_position_samples.jpg)
+![alt text](hammer_position_and_velocity.jpg)
+![alt text](hammer_position_samples.jpg)
