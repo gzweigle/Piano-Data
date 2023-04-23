@@ -1,4 +1,4 @@
-# Renner data
+# Renner Action Data
 
 ## Data Source
 
@@ -13,6 +13,10 @@ Samples are the motion of the hammer shank at a point close to the flange.
 ADC is 24-bit but data was heavily post-quantized
 due to a temporary implementation constraint.
 Data was sampled at 8000 samples per second.
+
+See DIY-Grand-Digital-Piano repository for further details.
+
+https://github.com/gzweigle/DIY-Grand-Digital-Piano
 
 ## Data Usage
 
