@@ -16,7 +16,7 @@ The analog to digital converter is 24-bit.
 However, data was post-quantized due to an implementation constraint.
 Data was sampled at 8000 samples per second.
 
-Sensor is a CNY-70. The hammer positions in samples.txt is a combination of the actual
+Sensor is a CNY-70. The hammer positions in samples.txt are a combination of the actual
 hammer position plus nonlinearities of sensor. This may be the cause of unusual
 behavior near hammer strikes in the data.
 
