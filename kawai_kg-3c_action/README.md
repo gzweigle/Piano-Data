@@ -27,6 +27,7 @@ behavior near hammer strike in the data?
 See DIY-Grand-Digital-Piano repository for further details of measurement system.
 
 https://github.com/gzweigle/DIY-Grand-Digital-Piano
+
 https://github.com/gzweigle/DIY-Grand-Digital-Piano/blob/main/video_documentation.md
 
 ## Data Usage
