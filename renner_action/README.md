@@ -17,6 +17,7 @@ Data was sampled at 8000 samples per second.
 See DIY-Grand-Digital-Piano repository for further details.
 
 https://github.com/gzweigle/DIY-Grand-Digital-Piano
+https://github.com/gzweigle/DIY-Grand-Digital-Piano/blob/main/video_documentation.md
 
 ## Data Usage
 
