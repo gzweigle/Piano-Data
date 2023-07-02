@@ -11,8 +11,6 @@ All samples are for middle-E key strikes (E4).
 Data is for fast and slow strikes and at a sample rate of 2Ksps
 (Ksps = thousands of samples per second).
 
-Data is for slow, fast and repeated key strikes.
-
 The fastest release is by quickly sliding my finger off the edge of the key so that the
 key returned to its default position entirely on its own.
 
