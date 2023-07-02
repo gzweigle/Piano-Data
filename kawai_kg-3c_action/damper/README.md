@@ -1,4 +1,4 @@
-# Kawai KG-3C Data
+# Kawai KG-3C Damper Data
 
 ## Data Source
 
