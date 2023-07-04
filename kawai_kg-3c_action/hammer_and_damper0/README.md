@@ -124,3 +124,6 @@ Zoom to a fast piano key press:
 
 Zoom to the medium speed piano key press:
 ![alt text](hammer_damper_2K_17b_medium.jpg)
+
+Zoom to the very slow speed piano key press:
+![alt text](hammer_damper_2K_17b_slow.jpg)
