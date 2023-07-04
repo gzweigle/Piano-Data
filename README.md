@@ -1,3 +1,3 @@
 # Piano-Data
 
-Experimental measurements from pianos.
+Experimental measurements from pianos and piano actions.
